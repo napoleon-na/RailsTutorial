@@ -1,6 +1,6 @@
 # RailsTutorial
 
-下記チュートリアルのまとめページ。  
+下記チュートリアルの実践まとめページ。  
 
 [Ruby on Rails チュートリアル：実例を使って Rails を学ぼう](http://railstutorial.jp/)
 
